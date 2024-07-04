@@ -3,7 +3,7 @@
  - This Repo is being actively updated and maintained! 03/17/24
  - Please let us know if we miss any papers!
 
-## Cotents
+## Contents
 - [Survey](#Survey)
 - [Dataset](#Dataset)
 - [Algorithm](#Algorithm)
